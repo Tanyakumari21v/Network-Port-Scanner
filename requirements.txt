@@ -1,0 +1,9 @@
+# Network Port Scanner - Dependencies
+# All core modules are from Python standard library.
+# No third-party packages are required.
+
+# Optional: install for colored terminal output enhancement
+# colorama>=0.4.6
+
+# Optional: for future GUI support
+# rich>=13.0.0
